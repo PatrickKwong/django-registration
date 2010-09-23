@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-23 18:48+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms:  nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
+"n%100==4 ? 2 : 3);\n"
+
+#: forms.py:38
+msgid "username"
+msgstr "korisničko ime"
+
+#: forms.py:41
+msgid "email address"
+msgstr "email adresa"
+
+#: forms.py:43
+msgid "password"
+msgstr "lozinka"
+
+#: forms.py:45
+msgid "password (again)"
+msgstr "lozinka (ponovi)"
+
+#: forms.py:57
+msgid "This username is already taken. Please choose another."
+msgstr "Korisničko ime je zauzeto. Molimo odaberite drugo korisničko ime."
+
+#: forms.py:69
+msgid "You must type the same password each time"
+msgstr "Morate utipkati istu lozinku svaki put."
+
+#: forms.py:98
+msgid "I have read and agree to the Terms of Service"
+msgstr "Pročitao sam i slažem se sa Pravilima korištenja"
+
+#: forms.py:115
+msgid ""
+"This email address is already in use. Please supply a different email "
+"address."
+msgstr "Email adresa je već u upotrebi. Molimo unesite drugu email adresu."
+
+#: forms.py:141
+msgid ""
+"Registration using free email addresses is prohibited. Please supply a "
+"different email address."
+msgstr ""
+
+#: models.py:213
+msgid "user"
+msgstr "korisnik"
+
+#: models.py:214
+msgid "activation key"
+msgstr "ključ za aktivaciju"
+
+#: models.py:219
+msgid "registration profile"
+msgstr "profil registracije"
+
+#: models.py:220
+msgid "registration profiles"
+msgstr "profili registracije"
